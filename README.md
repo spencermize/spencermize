@@ -90,18 +90,6 @@ Building thoughtful frontend experiences, agentic developer workflows, and syste
 
 ---
 
-### Areas of Interest
-
-- AI-assisted developer tooling
-- Full-stack TypeScript systems
-- Data-intensive web applications
-- Automation & web crawling
-- Climate & energy technology
-- Developer infrastructure
-- Modern UX and frontend architecture
-
----
-
 ### Previously Worked With
 
 React • Svelte • Next.js • Node.js • Python • Postgres • Supabase • AWS • Docker • Terraform • GraphQL • Cypress • Jest • Electron • Firebase • GCP • Vue • Angular • PHP • Java • Linux
